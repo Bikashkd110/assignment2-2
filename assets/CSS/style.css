@@ -179,7 +179,7 @@ figcaption strong {
 
 
 
-/* All things related to the bottom pane */
+/* All things related to footer*/
 #footer {
     background-color: var(--color-dark-theme);
     color           : var(--color-light-theme);
